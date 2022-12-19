@@ -1,10 +1,34 @@
 [{
   "id": "phylotree-rcrs",
-  "latest": "15.0",
-  "url": "https://github.com/genepi/phylotree-rcrs",
+  "latest": "17.0",
+  "url": "https://github.com/genepi/phylotree-rcrs-15",
   "description": "PhyloTree",
   "releases": [{
     "version": "15.0",
-    "url": "https://github.com/genepi/phylotree-rcrs/releases/download/15.0/phylotree-rcrs-15.0.zip",
+    "url": "https://github.com/genepi/phylotree-rcrs-15/releases/download/15.0/phylotree-rcrs-15.0.zip",
+  },{
+    "version": "16.0",
+    "url": "https://github.com/genepi/phylotree-rcrs-16/releases/download/16.0/phylotree-rcrs-16.0.zip",
+  },{
+    "version": "17.0",
+    "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.0/phylotree-rcrs-17.0.zip",
+  }]
+},{
+  "id": "phylotree-rsrs",
+  "latest": "17.0",
+  "url": "https://github.com/genepi/phylotree-rsrs-17",
+  "description": "PhyloTree",
+  "releases": [{
+    "version": "17.0",
+    "url": "https://github.com/genepi/phylotree-rsrs-17/releases/download/17.0/phylotree-rsrs-17.0.zip",
+  }]
+},{
+  "id": "phylotree-fu-rcrs",
+  "latest": "17.0",
+  "url": "https://github.com/genepi/phylotree-fu-rcrs",
+  "description": "PhyloTree 17 - Forensic Update",
+  "releases": [{
+    "version": "1.0",
+    "url": "https://github.com/genepi/phylotree-fu-rcrs/releases/download/1.0/phylotree-fu-rcrs-1.0.zip",
   }]
 }]
