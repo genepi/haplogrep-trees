@@ -1,0 +1,7 @@
+- id: "phylotree-rcrs"
+  latest: "15.0"
+  url: "https://github.com/genepi/phylotree-rcrs"
+  description: "PhyloTree"
+  releases:
+    - version: "15.0"
+      url: "https://github.com/genepi/phylotree-rcrs/releases/download/15.0/phylotree-rcrs-15.0.zip"
