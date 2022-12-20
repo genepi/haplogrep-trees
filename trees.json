@@ -24,7 +24,7 @@
   }]
 },{
   "id": "phylotree-fu-rcrs",
-  "latest": "17.0",
+  "latest": "1.0",
   "url": "https://github.com/genepi/phylotree-fu-rcrs",
   "description": "PhyloTree 17 - Forensic Update",
   "releases": [{
