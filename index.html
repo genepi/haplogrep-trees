@@ -6,10 +6,21 @@ layout: default
 ---
 
 <h1>HaploGrep Phylogenies</h1>
+<p>This is a list of all available <a href="http://github.com/genepi/haplogrep3">HaploGrep 3</a> trees. If you want to add your tree to this repository, please make a <a href="https://github.com/genepi/haplogrep-trees">pull request</a>.</p>
 
-<ul>
 {% for plugin in site.data.plugins %}
-<li><a href="{{plugin.url}}">{{plugin.id}}</a> {{plugin.latest}}<br>
-<small>{{plugin.description}}</small></li>
+<h4><a href="{{plugin.url}}">{{plugin.description}}</a></h4>
+<ul>
+{% for release in plugin.releases reversed %}
+<li style="margin-bottom: 15px;">Version {{release.version}} {% if release.version == plugin.latest %} <b>[Latest Release]</b> {% endif %}<br>
+<small><code>haplogrep install-tree {{plugin.id}}@{{release.version}}</code></small>
+</li>
 {% endfor %}
 </ul>
+{% endfor %}
+<hr style="margin-top: 30px; margin-bottom: 30px;">
+<div style="margin-top: 30px; margin-bottom: 30px;">
+  <small>
+    powered by <a href="https://haplogrep.i-med.ac.at" target="_blank">Haplogrep</a>, 2022 <a href="https://genepi.i-med.ac.at/" target="_blank" >Institute of Genetic Epidemiology</a>, <a href="https://i-med.ac.at/" target="_blank" >Medical University of Innsbruck</a><p>
+  </small>
+</div>
