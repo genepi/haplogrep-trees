@@ -24,11 +24,14 @@
   }]
 },{
   "id": "phylotree-fu-rcrs",
-  "latest": "1.0",
+  "latest": "1.1",
   "url": "https://github.com/genepi/phylotree-fu-rcrs",
   "description": "PhyloTree 17 - Forensic Update (rCRS Human mtDNA)",
   "releases": [{
     "version": "1.0",
     "url": "https://github.com/genepi/phylotree-fu-rcrs/releases/download/1.0/phylotree-fu-rcrs-1.0.zip",
+  },{
+    "version": "1.1",
+    "url": "https://github.com/genepi/phylotree-fu-rcrs/releases/download/1.1/phylotree-fu-rcrs-1.1.zip",
   }]
 }]
