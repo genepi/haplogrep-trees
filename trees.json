@@ -12,6 +12,9 @@
   },{
     "version": "17.0",
     "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.0/phylotree-rcrs-17.0.zip",
+  },{
+    "version": "17.1",
+    "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.1/phylotree-rcrs-17.1.zip",
   }]
 },{
   "id": "phylotree-rsrs",
