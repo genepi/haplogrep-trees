@@ -5,19 +5,19 @@
   "description": "PhyloTree (rCRS Human mtDNA)",
   "releases": [{
     "version": "15.0",
-    "url": "https://github.com/genepi/phylotree-rcrs-15/releases/download/15.0/phylotree-rcrs-15.0.zip",
+    "url": "https://github.com/genepi/phylotree-rcrs-15/releases/download/15.0/phylotree-rcrs-15.0.zip"
   },{
     "version": "16.0",
-    "url": "https://github.com/genepi/phylotree-rcrs-16/releases/download/16.0/phylotree-rcrs-16.0.zip",
+    "url": "https://github.com/genepi/phylotree-rcrs-16/releases/download/16.0/phylotree-rcrs-16.0.zip"
   },{
     "version": "17.0",
-    "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.0/phylotree-rcrs-17.0.zip",
+    "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.0/phylotree-rcrs-17.0.zip"
   },{
     "version": "17.1",
-    "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.1/phylotree-rcrs-17.1.zip",
+    "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.1/phylotree-rcrs-17.1.zip"
   },{
     "version": "17.2",
-    "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.2/phylotree-rcrs-17.2.zip",
+    "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.2/phylotree-rcrs-17.2.zip"
   }]
 },{
   "id": "phylotree-rsrs",
@@ -26,10 +26,10 @@
   "description": "PhyloTree (RSRS Human mtDNA)",
   "releases": [{
     "version": "17.0",
-    "url": "https://github.com/genepi/phylotree-rsrs-17/releases/download/17.0/phylotree-rsrs-17.0.zip",
+    "url": "https://github.com/genepi/phylotree-rsrs-17/releases/download/17.0/phylotree-rsrs-17.0.zip"
   },{
     "version": "17.1",
-    "url": "https://github.com/genepi/phylotree-rsrs-17/releases/download/17.1/phylotree-rsrs-17.1.zip",
+    "url": "https://github.com/genepi/phylotree-rsrs-17/releases/download/17.1/phylotree-rsrs-17.1.zip"
   }]
 },{
   "id": "phylotree-fu-rcrs",
@@ -38,12 +38,30 @@
   "description": "PhyloTree 17 - Forensic Update (rCRS Human mtDNA)",
   "releases": [{
     "version": "1.0",
-    "url": "https://github.com/genepi/phylotree-fu-rcrs/releases/download/1.0/phylotree-fu-rcrs-1.0.zip",
+    "url": "https://github.com/genepi/phylotree-fu-rcrs/releases/download/1.0/phylotree-fu-rcrs-1.0.zip"
   },{
     "version": "1.1",
-    "url": "https://github.com/genepi/phylotree-fu-rcrs/releases/download/1.1/phylotree-fu-rcrs-1.1.zip",
+    "url": "https://github.com/genepi/phylotree-fu-rcrs/releases/download/1.1/phylotree-fu-rcrs-1.1.zip"
   },{
     "version": "1.2",
-    "url": "https://github.com/genepi/phylotree-fu-rcrs/releases/download/1.2/phylotree-fu-rcrs-1.2.zip",
+    "url": "https://github.com/genepi/phylotree-fu-rcrs/releases/download/1.2/phylotree-fu-rcrs-1.2.zip"
+  }]
+},{
+  "id": "mitotree-rsrs",
+  "latest": "2026.05.06",
+  "url": "https://github.com/genebygene/mitotree/",
+  "description": "FamilyTreeDNA Mitotree (RSRS Human mtDNA, non-commercial use only)",
+  "releases": [{
+    "version": "2026.05.06",
+    "url": "https://github.com/genebygene/mitotree/releases/download/2026.05.06/mitotree-rsrs-2026.05.06.zip"
+  }]
+},{
+  "id": "mitotree-rcrs",
+  "latest": "2026.05.06",
+  "url": "https://github.com/genebygene/mitotree/",
+  "description": "FamilyTreeDNA Mitotree (rCRS Human mtDNA, non-commercial use only)",
+  "releases": [{
+    "version": "2026.05.06",
+    "url": "https://github.com/genebygene/mitotree/releases/download/2026.05.06/mitotree-rcrs-2026.05.06.zip"
   }]
 }]
