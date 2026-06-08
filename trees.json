@@ -1,6 +1,6 @@
 [{
   "id": "phylotree-rcrs",
-  "latest": "17.2",
+  "latest": "17.3",
   "url": "https://github.com/genepi/phylotree-rcrs-17",
   "description": "PhyloTree (rCRS Human mtDNA)",
   "releases": [{
@@ -18,6 +18,9 @@
   },{
     "version": "17.2",
     "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.2/phylotree-rcrs-17.2.zip",
+  },{
+    "version": "17.3",
+    "url": "https://github.com/genepi/phylotree-rcrs-17/releases/download/17.3/phylotree-rcrs-17.3.zip",
   }]
 },{
   "id": "phylotree-rsrs",
