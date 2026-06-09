@@ -15,9 +15,6 @@ Schönherr S, Weissensteiner H, Kronenberg F, Forer L. *HaploGrep 3 - an interac
 ## Available Trees
 HaploGrep 3 supports the following phylogenetic trees for haplogroup classification. The full catalog is maintained at [genepi.github.io/haplogrep-trees](https://genepi.github.io/haplogrep-trees) and defined in [`trees.json`](https://github.com/genepi/haplogrep-trees/blob/main/trees.json).
 
-## Available Trees
-HaploGrep 3 supports the following phylogenetic trees for haplogroup classification. The full catalog is maintained at [genepi.github.io/haplogrep-trees](https://genepi.github.io/haplogrep-trees) and defined in [`trees.json`](https://github.com/genepi/haplogrep-trees/blob/main/trees.json).
-
 | ID | Description | Latest | Repository | Reference |
 | --- | --- | --- | --- | --- |
 | `phylotree-rcrs` | PhyloTree (rCRS Human mtDNA) | 17.3 | [genepi/phylotree-rcrs-17](https://github.com/genepi/phylotree-rcrs-17) | [1] |
