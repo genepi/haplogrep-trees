@@ -79,4 +79,15 @@
     "version": "2026.05.06",
     "url": "https://github.com/genebygene/mitotree/releases/download/2026.05.06/mitotree-rcrs-2026.05.06.zip"
   }]
-}]
+},
+   {
+  "id": "mitoleaf-rcrs",
+  "latest": "1.6",
+  "url": "https://github.com/forensicgenomics/mitoleaf-rcrs",
+  "description": "mitoLEAF (rCRS Human mtDNA)",
+  "releases": [{
+    "version": "1.6",
+    "url": "https://github.com/forensicgenomics/mitoleaf-rcrs/releases/download/1.6/mitoleaf-rcrs-1.6.zip"
+  }]
+}
+]
